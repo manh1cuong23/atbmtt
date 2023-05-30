@@ -1,0 +1,38 @@
+.container {
+  width: 40%;
+  margin: 0 40px;
+}
+.input {
+  font-size: 14px;
+}
+.right {
+}
+.right_top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.right_top_left {
+}
+.right_top_mid {
+}
+.right_top_right {
+}
+.right_mid {
+  display: flex;
+  justify-content: center;
+  margin: 30px 0;
+}
+.right_bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.right_bottom {
+}
+.right_bottom_left {
+}
+.right_bottom_mid {
+}
+.right_bottom_right {
+}

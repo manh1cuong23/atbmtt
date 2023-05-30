@@ -1,0 +1,40 @@
+.container {
+  width: 40%;
+  margin: 0 40px;
+}
+.input {
+  font-size: 14px;
+}
+.left {
+}
+.left_top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.left_top_left {
+}
+.left_top_mid {
+}
+.left_top_right {
+}
+.left_mid {
+  display: flex;
+  justify-content: center;
+  margin: 30px 0;
+}
+.left_bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.left_bottom {
+}
+.left_bottom_left {
+}
+.left_bottom_mid {
+}
+.left_bottom_right {
+  display: flex;
+  flex-direction: column;
+}
